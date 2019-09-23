@@ -2,6 +2,9 @@
 
 A interface between [Reagent](https://github.com/reagent-project/reagent) and [Reactstrap](https://github.com/reactstrap/reactstrap).
 
+[![Clojars Project](https://img.shields.io/clojars/v/reagentstrap.svg)](https://clojars.org/reagentstrap)
+[![cljdoc badge](https://cljdoc.org/badge/reagentstrap)](https://cljdoc.org/d/reagentstrap/CURRENT)
+
 ## Usage
 
 ```clojure

@@ -1,4 +1,4 @@
-(defproject reagentstrap "0.1.0"
+(defproject reagentstrap "0.1.1-SNAPSHOT"
   :description "Library for using Reactstrap with Reagent"
   :url "https://github.com/toyokumo/reagentstrap"
   :license {:name "Apache, Version 2.0"

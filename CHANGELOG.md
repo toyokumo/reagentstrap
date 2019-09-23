@@ -1,5 +1,5 @@
 # Change Log
 
-## 0.0.1
+## 0.1.0
 ### Added
-- Work with Reactstrap 0.8.1
+- Work on Reactstrap 7.1.0
